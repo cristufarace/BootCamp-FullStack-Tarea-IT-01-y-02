@@ -1,0 +1,84 @@
+
+/* ESTILOS GENERALES */
+body{
+    background-color: #273238;
+}
+
+p{
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    color: #C7D8DA;
+}
+
+#header h1{
+    margin-top: 40px;
+    height: 60px;
+    line-height: 60px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 54px;
+    background-color: #FFFFFF;
+    color: #698593;
+    text-align: center;
+}
+
+
+
+.product-name{
+    font-family: Arial, Gadget, sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+span{
+    text-transform: uppercase;
+    font-size: x-large;
+}
+
+img{
+    justify-items: center;
+    margin-left: 40px;
+    width: 500px;
+}
+
+/* ESTILOS DE PRODUCTOS */
+
+#aspiradoras > h2{
+    color: #E6CBBF;;
+}
+
+#aspiradoras > img{
+    border: 5px solid #E6CBBF;
+}
+
+
+#celulares > h2{
+    color: #A1C1CB;
+}
+
+#celulares > img{
+    border: 5px solid #A1C1CB;
+}
+
+#consolas > h2{
+    color: #BCBDBF;
+}
+
+#consolas > img{
+    border: 5px solid #BCBDBF;
+}
+
+#home_theaters > h2{
+    color: #8D94A1;
+}
+
+#home_theaters > img{
+    border: 5px solid #8D94A1;
+}
+
+#televisores > h2{
+    color: #B2B2AA;
+}
+
+#televisores > img{
+    border: 5px solid #B2B2AA;
+}
